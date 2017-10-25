@@ -1,0 +1,6 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="f3" />
+    <mouse-shortcut keystroke="shift button1" />
+  </action>
+</keymap>
