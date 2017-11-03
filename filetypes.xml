@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="BSTable" type="JavaScript" />
       <mapping ext="styl" type="PLAIN_TEXT" />
+      <removed_mapping ext="styl" type="Stylus" />
     </extensionMap>
   </component>
 </application>
